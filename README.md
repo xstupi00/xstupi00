@@ -2,7 +2,7 @@
 
 My name is **Šimon Stupinský**.
 
-I am a *student* and *research assistant* at the **Faculty of Information Technology at Brno University of Technology**.
+I was/am a *student* and *research assistant* at the **Faculty of Information Technology at Brno University of Technology**.
 
 I like to learn new things and share my knowledge with the community.
 
