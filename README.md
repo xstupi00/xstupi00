@@ -9,7 +9,7 @@ I like to learn new things and share my knowledge with the community.
 You may contact me using one of the following addresses:
 - **simondestupinsky@gmail.com**
 - xstupi00@stud.fit.vutbr.cz
-- xstupi0000@vut.cz
+- xstupi00@vut.cz
 - Simon.Stupinsky@vut.cz
 
 [![xstupi00's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xstupi00&count_private=true&hide=contribs&show_icons=true&theme=monokai&include_all_commits=true&disable_animations=true)](https://github.com/xstupi00)
